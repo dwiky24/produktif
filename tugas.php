@@ -1,4 +1,4 @@
-<?php
+<?php // RPL XI-4 
 class barang{
 public $namaBarang,
 	   $merk, 
@@ -28,11 +28,11 @@ $cetakInfobarang = new cetakInfobarang();
 
 
 
-echo "YESI ASVIA";
+echo "DWIKY JULIYANSYAH";
 echo "<br>";
 echo "RPL XI-4";
 echo "<br>";
-echo "CISARUA 1";
+echo "WIKRAMA 2";
 echo "<br>";
 echo "<br>";
 echo "<br>";
